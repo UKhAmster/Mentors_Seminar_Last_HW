@@ -1,0 +1,9 @@
+# Бинарники
+*.exe
+*.out
+*.test
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
